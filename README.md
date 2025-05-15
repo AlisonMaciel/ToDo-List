@@ -32,6 +32,6 @@
 </ul>
 
 <img 
-  src="file:///C:/Users/aliso/Pictures/Screenshots/Captura%20de%20Tela%20(56).png" 
+  src="https://i.imgur.com/cppgNbJ.png" 
   alt="Imagem Criador de tarefas"
 />
