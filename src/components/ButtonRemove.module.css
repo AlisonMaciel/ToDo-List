@@ -1,0 +1,20 @@
+.button {
+  border: none;
+  background-color: transparent;
+  color: var(--gray-300);
+  cursor: pointer;
+}
+
+.button:hover {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--gray-400);
+  color: var(--danger);
+  border-radius: 4px;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+
+

@@ -1,0 +1,68 @@
+.main {
+  max-width: 46rem;
+  margin: 0 auto;
+  margin-top: -26.5px;
+  padding: 0 1rem;
+}
+
+.main .addTaks {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.main .taks {
+  margin-top: 4rem;
+}
+
+.invalid {
+  margin-top: 5px;
+}
+
+.invalid span {
+  color: var(--blue);
+  font-weight: bold;
+  font-size: 87.5%;
+}
+
+.createTaks {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+}
+
+.createTaks .create span {
+  margin-right: 8px;
+}
+
+.createTaks .create small {
+  background-color: var(--gray-400);
+  padding: 2px 8px;
+  border-radius: 999px;
+  color: var(--gray-200);
+  font-weight: bold;
+  font-size: 75%;
+}
+
+.createTaks .completed span {
+  color: var(--purple);
+  font-weight: bold;
+  font-size: 87.5%;
+  margin-right: 8px;
+}
+
+.createTaks .completed small {
+  background-color: var(--gray-400);
+  padding: 2px 8px;
+  border-radius: 999px;
+  color: var(--gray-200);
+  font-weight: bold;
+  font-size: 75%;
+} 
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
