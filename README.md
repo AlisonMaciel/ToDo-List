@@ -10,7 +10,7 @@
   <li>Phosphor Icons</li>
   <li>Vite</li>
   <li>TypeScript</li>
-  <li>Componentee reutilizáveis e tipados ✅</li>
+  <li>Componentes reutilizáveis e tipados ✅</li>
   <li>Tratamento de erros durante a criação de uma tarefa✅</li>
   
 </ul>
